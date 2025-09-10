@@ -38,4 +38,5 @@ Project Structure
 ├── app.py              # Main application logic and Gradio UI
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Files to be ignored by Git
+
 └── README.md           # Project documentation
